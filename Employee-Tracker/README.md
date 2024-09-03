@@ -1,8 +1,14 @@
 # Employee Tracker
 
-## Desciption
+## Overview
     Employee Tracker is a commnad-line application developed using Nodejs, Inquirer and PostgreSQL.
     This application helps business owner to manage department, roles and employees in company.
+
+## Features
+- View/Add Employee, Department, Role
+- View Employee by Manager
+- View Employee by Department
+
 
 ## Installation
 
